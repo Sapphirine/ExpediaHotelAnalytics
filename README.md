@@ -1,9 +1,12 @@
-#Expedia Hotel Analytics
-
-##Advanced Big Data Analytics
+#Advanced Big Data Analytics
 
 Aditya Bagri         aab2234@columbia.edu                                            
 Gautam Sihag         gs2835@columbia.edu   
+
+##Expedia Hotel Analytics
+Link to our website: 
+[Expedia Hotel Analytics](www.expedia-hotel-analytics.weebly.com)
+
 
 ### Introduction
 
