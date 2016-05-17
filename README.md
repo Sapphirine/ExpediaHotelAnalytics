@@ -58,7 +58,7 @@ The attributes of the `train.csv` file are:
 
 Attributes of `Destination.csv` file are:
 - `srch_destination_id`	ID of the destination where the hotel search was performed	| int
-- `d1-d149`	latent description of search regions	| double
+- `d1 through d149`	latent description of search regions	| double
 
 This is data is clean and anonymized for user privacy, and does not include any sensitive information about the customers or hotels or country of search or country of travle.
 
