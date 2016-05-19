@@ -17,10 +17,8 @@ def prepare_arrays_match():
     best_s00 = defaultdict(int)
     best_s01 = defaultdict(int)
     total = 0
-
-    # Calc counts
-
-    while total < 30000000:
+ 
+    while total < 32000000:
         line = f.readline().strip()
         total += 1
 
